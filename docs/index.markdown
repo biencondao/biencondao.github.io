@@ -28,6 +28,10 @@ homepage: true
 
 ---
 
+<div class="row">
+  <div class="small-2 large-4 columns">
+
+
 <div class="custom"  >
 <script>// <![CDATA[
 (function(d, s, id) {
@@ -50,8 +54,18 @@ window.fbAsyncInit = function() {
 // ]]></script></div>
 <div class="custom"  >
 	<div class="fb-like-box" data-href="http://www.facebook.com/pages/Du-l%E1%BB%8Bch-C%C3%B4n-%C4%90%E1%BA%A3o/127068444008015" data-width="800" data-show-faces="true" data-stream="true" data-header="true"></div></div>
-</div>
+
+
+  </div>
+  <div class="small-6 large-4 columns">
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0&appId=1073116313283409&autoLogAppEvents=1" nonce="clNAYCSp"></script>
 <div class="fb-page" data-href="https://www.facebook.com/biencondao/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/biencondao/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/biencondao/">Du lịch Côn Đảo</a></blockquote></div>
+  </div>
+  <div class="small-4 large-4 columns">
 
+<div class="zalo-chat-widget" data-oaid="1727806014867269783" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="" data-height=""></div>
+
+<script src="https://sp.zalo.me/plugins/sdk.js"></script>
+  </div>
+</div>
