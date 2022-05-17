@@ -55,4 +55,5 @@ plugins:
 #   - vendor/ruby/
 
 logo: "logo.png"
+credits: 'Tạo bởi phlow.de và Jekyll, bản quyền thuộc về công ty du lịch Biển Côn Đảo'
 

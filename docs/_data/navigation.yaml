@@ -1,0 +1,20 @@
+- title: Biển Côn Đảo
+  url: "/"
+  side: left
+
+- title: Combo du lịch 
+  url: "/combo/"
+  side: left
+
+- title: Hợp tác
+  url: "/hoptac/"
+  side: left
+
+- title: Thư viện hình ảnh 
+  url: "/hinhanh/"
+  side: left
+
+- title: Liên hệ
+  url: "/lienhe/"
+  side: right 
+
