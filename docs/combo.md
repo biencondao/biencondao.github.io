@@ -34,8 +34,8 @@ Xin vui lòng thông báo, ngày khởi hành, số lượng khách, phương ti
 - Máy bay: xuất phát Nội Bài, Tân Sơn Nhất.
 
 <div class="row">
-  <div class="small-2 large-4 columns"><img src="/assets/img/tauexpress.jpg"></div>
-  <div class="small-6 large-4 columns"><img src="/assets/img/tausuperdong.jpg"/></div>
+  <div class="small-4 large-4 columns"><img src="/assets/img/tauexpress.jpg"></div>
+  <div class="small-4 large-4 columns"><img src="/assets/img/tausuperdong.jpg"/></div>
   <div class="small-4 large-4 columns"><img src="/assets/img/maybay.jpg"></div>
 </div>
 
@@ -51,9 +51,9 @@ Xin vui lòng thông báo, ngày khởi hành, số lượng khách, phương ti
 </div>
 <br/>
 <div class="row">
-  <div class="small-2 large-4 columns"><img src="/assets/img/sixsenses2.jpg"></div>
+  <div class="small-4 large-4 columns"><img src="/assets/img/sixsenses2.jpg"></div>
   <div class="small-4 large-4 columns"><img src="/assets/img/poulo-condor-1.png"></div>
-  <div class="small-6 large-4 columns"><img src="/assets/img/The-Secret-Con-Dao-1.jpg"/></div>
+  <div class="small-4 large-4 columns"><img src="/assets/img/The-Secret-Con-Dao-1.jpg"/></div>
 </div>
 
 <h3>Các dịch vụ thêm:</h3>
