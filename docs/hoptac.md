@@ -1,4 +1,8 @@
 ---
+header:
+    image_fullwidth: "/assets/img/condao3.jpg"
+    caption: "Cầu tàu 914"
+    caption_url: https://condao.info
 layout: page
 sidebar: left
 title: Hợp tác lữ hành 

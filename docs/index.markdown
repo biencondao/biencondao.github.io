@@ -1,7 +1,7 @@
 ---
 header:
-    image_fullwidth: "assets/img/bainhat.jpg"
-    caption: "Bãi nhát"
+    image_fullwidth: "/assets/img/condao2.jpg"
+    caption: "Bãi Đầm Trầu"
     caption_url: https://condao.info
 layout: frontpage
 widget1:

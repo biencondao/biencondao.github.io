@@ -1,4 +1,8 @@
 ---
+header:
+    image_fullwidth: "/assets/img/bainhat.jpg"
+    caption: "Bãi Nhát"
+    caption_url: https://condao.info
 layout: page
 title: Combo du lịch
 sidebar: left
