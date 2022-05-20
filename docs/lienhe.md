@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Liên hệ
-permalink: /lienhe/
+permalink: /info/
 ---
 
 <div class="panel radius">

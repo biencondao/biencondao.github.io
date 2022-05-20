@@ -20,7 +20,7 @@ widget3:
   image: "assets/img/saigoncondao.jpg"
   text: 'Hợp tác với các công ty lữ hành trong và ngoài nước, tổ chức các sự kiện đặc biệt, đoàn tour du lịch số lượng lớn.'
 callforaction:
-  url: "/lienhe/" 
+  url: "/info/" 
   text: "Liên hệ Hotline - Zalo: 0988747474"
   style: alert
 permalink: /index.html
